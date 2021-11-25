@@ -1,0 +1,17 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Predial</string>
+
+    <string name="persona_nombre">Nombre completo</string>
+    <string name="persona_edad">Edad</string>
+    <string name="persona_sexo">Sexo</string>
+    <string name="persona_sexo_f">Femenino</string>
+    <string name="persona_sexo_m">Masculino</string>
+    <string name="persona_madresoltera">Es Madre soltera</string>
+
+    <string name="predio_extension">Extension del predio</string>
+    <string name="predio_zona">Zona</string>
+    <string name="predio_agregar">Agregar predio</string>
+
+    <string name="calcular">Calcular el pago</string>
+</resources>

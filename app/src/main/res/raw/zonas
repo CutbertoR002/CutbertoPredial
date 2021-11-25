@@ -1,0 +1,8 @@
+[
+  {"clave": "URB", "zona":"Urbana", "costo": 10.00},
+  {"clave": "RUR", "zona":"Rural", "costo": 8.00},
+  {"clave": "Mar", "zona":"Marginado", "costo": 2.00},
+  {"clave": "RES", "zona":"Residencial", "costo": 25.00}
+]
+
+// creado dentro de la ccarpeta raw dentro de la carpeta res
